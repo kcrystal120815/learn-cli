@@ -7,4 +7,5 @@
 - log
 - resotre
 - branch
-- switch
+-switch
+-merge
